@@ -5,7 +5,7 @@ Plugin for Karma Test Runner to integrate MSL (Mock Service Layer)
 
 ## Contributing & Sponsor
 
-More information on how to contribute to this project including sign off and the [DCO agreement](https://github.com/FINRAOS/karma-msl/blob/master/DCO.md), please see the project's [GitHub wiki](https://github.com/FINRAOS/karma-msl/wiki).
+More information on how to contribute to this project including sign off and the [DCO agreement](https://github.com/FINRAOS/karma-msl/blob/master/DCO), please see the project's [GitHub wiki](https://github.com/FINRAOS/karma-msl/wiki).
 
 FINRA has graciously allocated time for their internal development resources to enhance karma-msl and encourages participation in the open source community. Want to join FINRA? Please visit https://finra.org/careers.
 
