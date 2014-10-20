@@ -11,7 +11,7 @@ The easiest way is to keep `karma-msl` as a devDependency in your `package.json`
 {
   "devDependencies": {
     "karma": "~0.12.0",
-    "karma-jasmine": "~0.0.3"
+    "karma-msl": "~0.0.3"
   }
 }
 ```
