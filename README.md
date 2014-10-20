@@ -4,14 +4,15 @@ karma-msl
 > [Plugin](https://www.npmjs.org/package/karma-msl) for Karma Test Runner to integrate [MSL](http://finraos.github.io/MSL) (Mock Service Layer)
 
 ## Configuration
+Integrating MSL with Jasmine tests
 ```js
 // karma.conf.js
 module.exports = function(config) {
   config.set({
-    frameworks: ['msl'],
+    frameworks: ['jasmine, msl'],
 
     files: [
-      '*.js'
+      'spec/*.js'
     ],
     
     // configuration for msl plugin
