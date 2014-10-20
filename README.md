@@ -3,6 +3,24 @@ karma-msl
 
 > [Plugin](https://www.npmjs.org/package/karma-msl) for Karma Test Runner to integrate [MSL](http://finraos.github.io/MSL) (Mock Service Layer)
 
+## Installation
+
+The easiest way is to keep `karma-msl` as a devDependency in your `package.json`.
+
+```json
+{
+  "devDependencies": {
+    "karma": "~0.12.0",
+    "karma-jasmine": "~0.0.3"
+  }
+}
+```
+
+You can simple do it by:
+```bash
+npm install karma-msl --save-dev
+```
+
 ## Configuration
 Integrating MSL with Jasmine tests (you can also integrate with your favorite testing framework)
 ```js
