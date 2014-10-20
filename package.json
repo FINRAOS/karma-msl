@@ -1,0 +1,32 @@
+{
+  "name": "karma-msl",
+  "version": "0.0.5",
+  "description": "Plugin for Karma Test Runner to integrate MSL (Mock Service Layer)",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "http://finraos.github.io/MSL",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FINRAOS/karma-msl.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-msl",
+    "msl",
+    "mock"  
+  ],
+  "author": [
+    "Chien-Hung Kuo <kaidanransha@gmail.com>",
+    "Daniel Koo <danieljamin.koo@gmail.com>"
+  ],
+  "dependencies": {
+    "msl-server": "1.0.6"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "readmeFilename": "README.md",
+  "license": "Apache 2.0"
+}
