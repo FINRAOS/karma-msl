@@ -1,7 +1,7 @@
 karma-msl
 =========
 
-Plugin for Karma Test Runner to integrate MSL (Mock Service Layer)
+[Plugin](https://www.npmjs.org/package/karma-msl) for Karma Test Runner to integrate [MSL](http://finraos.github.io/MSL) (Mock Service Layer)
 
 ## Contributing & Sponsor
 
