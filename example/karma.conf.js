@@ -67,7 +67,6 @@ module.exports = function(config) {
     captureTimeout: 120000,
 
     browsers: ['PhantomJS'],
-    //browsers: ['Chrome'],
 
     // Continuous Integration mode
     // if true, it capture browsers, run tests and exit
