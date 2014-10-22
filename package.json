@@ -1,6 +1,6 @@
 {
   "name": "karma-msl",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Plugin for Karma Test Runner to integrate MSL (Mock Service Layer)",
   "main": "lib/index.js",
   "scripts": {
