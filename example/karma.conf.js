@@ -28,7 +28,8 @@ module.exports = function(config) {
     msl: {
       port: '8002',
       basedir: '../src/webapp',
-      debug: 'true'
+      debug: 'true',
+      extensions: 'customURL.js'
     },
 
     // this port should match the msl port specified in msl plugin configuration
