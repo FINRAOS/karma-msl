@@ -38,7 +38,7 @@ module.exports = function(config) {
       port: '8002', //port to start msl server.  8000 by default.
       basedir: '../src/', // directory containing the app code (front-end code under test).  current dir by default.
       debug: 'true', // true to turn on debugging. false by default.
-      extensions: 'CustomURL.js'
+      extensions: 'CustomURL.js' // custom extensions for msl-server (optional)
     },
     
     // this port should match the msl port specified in msl plugin config
