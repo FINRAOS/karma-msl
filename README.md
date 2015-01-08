@@ -11,7 +11,7 @@ The easiest way is to keep `karma-msl` as a devDependency in your `package.json`
 {
   "devDependencies": {
     "karma": "~0.12.0",
-    "karma-msl": "~0.0.12"
+    "karma-msl": "~0.0.13"
   }
 }
 ```
@@ -38,7 +38,7 @@ module.exports = function(config) {
       port: '8002', //port to start msl server.  8000 by default.
       basedir: '../src/', // directory containing the app code (front-end code under test).  current dir by default.
       debug: 'true', // true to turn on debugging. false by default.
-      extensions: 'CustomURL.js' // custom extensions for msl-server (optional)
+      extensions: 'CustomURL.js'
     },
     
     // this port should match the msl port specified in msl plugin config
