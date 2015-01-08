@@ -1,6 +1,6 @@
 {
   "name": "karma-msl",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Plugin for Karma Test Runner to integrate MSL (Mock Service Layer)",
   "main": "lib/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "Daniel Koo <danieljamin.koo@gmail.com>"
   ],
   "dependencies": {
-    "msl-server": "1.0.7"
+    "msl-server": "1.0.8"
   },
   "peerDependencies": {
     "karma": ">=0.9"
