@@ -56,9 +56,9 @@ module.exports = function(config) {
 
 More information on how to contribute to this project including sign off and the [DCO agreement](https://github.com/FINRAOS/karma-msl/blob/master/DCO), please see the project's [GitHub wiki](https://github.com/FINRAOS/karma-msl/wiki).
 
-FINRA has graciously allocated time for their internal development resources to enhance karma-msl and encourages participation in the open source community. Want to join FINRA? Please visit https://finra.org/careers.
+FINRA has graciously allocated time for their internal development resources to enhance karma-msl and encourages participation in the open source community. Want to join FINRA? Please visit http://technology.finra.org/careers.html.
 
-[![FINRA Logo][1]](http://finra.org)
+[FINRA Technology](http://technology.finra.org/)
 
 
 ## License Type
