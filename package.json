@@ -22,7 +22,7 @@
     "Daniel Koo <danieljamin.koo@gmail.com>"
   ],
   "dependencies": {
-    "msl-server": "1.0.8"
+    "msl-server": "1.0.9"
   },
   "peerDependencies": {
     "karma": ">=0.9"
